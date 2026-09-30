@@ -4,6 +4,7 @@
 и проверки данных. Точка запуска — `app/main.py`.
 
 ## Дерево проекта
+```
 text-kit/
 ├── app/
 │ ├── init.py
@@ -22,4 +23,4 @@ text-kit/
 │ ├── test_statistics.py
 │ └── test_validation.py
 └── README.md
-
+```
